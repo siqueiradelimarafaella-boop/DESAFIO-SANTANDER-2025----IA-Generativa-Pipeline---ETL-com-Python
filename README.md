@@ -1,5 +1,5 @@
-# 📊 DIO & Santander 2025 — Pipeline ETL com IA Generativa  
-### Python • Groq • Railway • Jupyter Notebook
+# 📊 IA Generativa em um Pipeline de ETL com Python
+### Python • Groq • Railway • Jupyter Notebook - Desafio DIO e Santander
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-IA%20Generativa-purple?logo=openai&logoColor=white)
